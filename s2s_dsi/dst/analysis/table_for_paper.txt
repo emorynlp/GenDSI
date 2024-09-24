@@ -1,0 +1,93 @@
+
+# Hallucination (MAP: Non-existing slots)
+
+The slot-value pair represents information that appears to be made 
+up by the model since it is neither explicitly derivable from the turn 
+nor does it constitute information that is inferrable from the turn. 
+
+## Example
+Turn: Okay, we'll definitely need to avoid peanuts and lower your sodium intake 
+to manage your blood pressure. Are you currently physically active?
+
+activity_level: ?
+**is_alcohol_served: ?** 
+
+# Leakage (MAP: Hallucination)
+
+The slot-value pair represents information that is only attributable to a previous
+turn in the dialogue, instead of being derivable from the focal turn.
+
+## Example
+Turn: Alright, Sarah. Can you tell me which payroll period the issues occurred in?
+
+payroll period: ?
+**name: Sarah Johnson**
+**employee iD: 123456**
+
+# Inaccurate (MAP: False information)
+
+The slot-value pair poorly represents the intended information in the focal turn.
+
+## Example
+Turn: Sure, let's have a sectional rehearsal for that. Bass and cello sections, 
+please come forward. Great job, everyone. I noticed that in measure 100, some of
+you were playing a bit too loudly. Please remember to keep the dynamics level 
+until measure 112.
+
+**beginning_note_of_song: 100**
+**end_of_song: 112**
+
+# Incomplete (MAP: Incomplete information)
+
+The value for the particular slot only partially captures the full meaning 
+presented in the focal turn and is thus incomplete.
+
+## Example
+Turn:  I believe the target audience for the yoga article would be pregnant 
+women and new mothers, while the sugar article would appeal to a broader 
+group interested in health and wellness.
+
+**audience_type: Health & Wellness**
+
+# Redundant (MAP: Redundant slots)
+
+The slot-value pair represents the same information as another slot-value pair for the focal turn.
+
+## Example
+Turn: My name is John Smith and you can reach me at 555-1234.
+
+name: John Smith
+contact info: 555-1234
+**first name: John**
+**last name: Smith**
+**phone number: 555-1234**
+
+# Imprecise (MAP: Vague)
+
+The slot-value representation is unclear and ambiguous in meaning when taken on its own 
+rather than clearly and concisely summarizing some presented information from the focal turn.
+
+## Example
+Turn: When I was growing up, my parents always taught me to appreciate nature 
+and not take it for granted. We used to go on camping trips and nature walks, 
+and those memories stay with me even today.
+
+parents teachings: Appreciate nature
+**camping trips: Yes**
+**nature walks: Yes**
+**camping nature memories: Yes**
+
+# Incomplete (MAP: Missing information)
+
+Some information that is presented in the focal turn and is necessary for 
+capturing its full meaning is not 
+represented by any slot-value pair for the turn. 
+
+## Example
+Turn: Well, my current schedule is Monday through Friday, 8:00 am to 5:00 pm. 
+I was thinking about changing it up a bit.
+
+day_of_appointment: Monday 
+end_of_the_available_event: 5:00 pm
+**Missing -> time_duration: 8:00 am to 5:00 pm**
+**Missing -> current_schedule: Monday through Friday**

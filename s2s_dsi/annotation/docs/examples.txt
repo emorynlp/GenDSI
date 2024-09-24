@@ -1,0 +1,97 @@
+
+
+✅  Will do. What's the player rotation and substitution plan for this game?
+        player rotation: ? ✅
+        substitution plan: ? ✅
+
+        All slots correct: player rotation was requested, substitution plan was requested
+        Complete: the key info was the player rotation and substitution plan requests, which are both captured in the slots. The acknowledgement "Will do" does not constitute key info, since this is just an acknowledgement of the previous turn. Short reactions, confirmations, acknowledgements, and clarifications are not key info since they are not adding substantial novel information to the discussion; by contrast, the requests for player rotation and substitution plan are novel information that are necessary for the speaker to advance the conversation.
+
+
+✅  The performance should be around 45 minutes long.
+        performance length: 45 minutes ✅
+        min duration: 45 minutes ❌
+        max duration: 45 minutes ❌
+
+        Correct slots: performance length was specified at 45 mins, so this is correct.
+        Incorrect slots: The reasonable interpretation of the min duration and max duration slots is that they represent the range of acceptable performance lengths. However, since the turn said the performance should be *around* 45 minutes long, these min and max performance bounds are probably too strict.
+        Complete: The key info was the performance length, which is captured in the performance length slot. It does not matter that the min and max duration slots are incorrect - all the key info (performance length) was captured correctly.
+
+
+✅  It's a P205/55R16.
+        tire size: P205/55R16 ✅
+        tire size 205: True ❌
+        tire size 55: True ❌
+        tire size 16: True ❌
+
+        Correct slots: tire size was specified as P205/55R16, so this is correct.
+        Incorrect slots: there is no reasonable interpretation of the tire size 205, tire size 55, and tire size 16 slots that would make them correct in the context of the turn, especially because they contradict each other.
+        Complete: The key info was the tire size, which is captured in the tire size slot. It does not matter that the tire size 205, tire size 55, and tire size 16 slots are incorrect - all the key info (tire size) was captured correctly at least once.
+
+
+ ❌  It's a P205/55R16.
+        tire size 205: True ❌
+        tire size 55: True ❌
+        tire size 16: True ❌
+
+        Incomplete: The key info -- the specification of P205/55R16 -- was not captured in any of the slots.
+
+
+ ✅  There were several instances of the phrases "breach of contract," "reasonable
+   person standard," and "compliance issues" used throughout.
+        legal terms jargon used: "breach of contract", "reasonable person standard", "compliance issues" ✅
+        phrase 1: breach of contract ✅
+        phrase 2: reasonable person standard ✅
+        phrase 3: compliance issues ✅
+
+        Correct slots: even though slots like "phrase 1" are a little vague, there is reasonable intepretation of each of these slots that is correct in the context of the turn. Namely, these are the phrases being highlighted by the speaker.
+        Complete: The key info was the legal terms and jargon used, which is captured in the legal terms jargon used slot. These phrases are also captured in the phrase 1, phrase 2, and phrase 3 slots-- although there is redundant coverage of the phrases, the state update is still complete because there is no key info missing.
+
+
+Yes, there are a few things that we need to address. First, we'll need to ensure
+that your work responsibilities can still be fulfilled with the new schedule.
+Additionally, we'll need to consider the impact of the schedule change on
+your pay and benefits, as well as any potential impact on other team members
+or on our operations. There is also required documentation for this type of
+request.
+
+❌  Okay, that makes sense. I'm happy to provide any necessary documentation and
+   understand that there may be some adjustments that need to be made. Would
+   there be any options for alternative scheduling arrangements if it turns out
+   that this particular change isn't feasible?
+        work responsibilities: Yes ❌
+        pay benefits: Yes ❌
+        team members: Yes ❌
+        operations: Yes ❌
+        required documentation: Yes ❌
+        alternative scheduling options: ? ✅
+
+        Incorrect slots: there is no reasonable interpretation of slots like "work responsibilities: Yes" that make them valid slots for the state update of this turn, because this turn did not mention or strongly imply any infomrmation about work responsibilities. Although these slots were part of the state update for the previous turn, they are not valid slots for this turn, and are therefore incorrect.
+        Incomplete: Although the speaker's request for whether alternative scheduling arrangements are needed is captured in the state update, this is only one piece of key info from the turn. The turn also shares info about the speaker being able to share documentation, which is important information for advancing the goals of the conversation. Since there is no slot that covers this information, the state update is incomplete.
+
+
+
+✅  Sure, my name is Maria and I'm originally from Mexico. I've been in the United
+   States for the past five years and I'm currently a permanent resident. I
+   speak Spanish fluently and I've been working as a cashier at a local grocery
+   store for the past two years.
+        self description: Maria, Mexico, 5 years, permanent resident, Spanish, cashier, local grocery store ✅
+        name: Maria ✅
+        origin: Mexico ✅
+        duration: 2 years ✅             <- although ambiguous, it could reasonably be the duration working as a cashier
+        status: permanent resident ✅
+        language: Spanish ✅
+        occupation: cashier ✅
+        location: local grocery store ✅ <- although ambiguous, it could reasonably be the work location
+✅  Great, thank you for sharing that with me. What is your educational background?
+        name: Maria ❌
+        origin: Mexico ❌
+        duration: 2 years ❌
+        status: Permanent resident ❌
+        language: Spanish ❌
+        occupation: Cashier at local grocery store ❌
+        education background: ? ✅
+
+        Correct slots: the slot requesting educational background is correct, since this was info from the turn
+        Incorrect slots: the slots for name, origin, duration, status, language, and occupation are incorrect, since these are not info from the turn
+        Complete: the only key info was the request for educational background, which was captured by one of the slots

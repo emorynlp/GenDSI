@@ -1,0 +1,978 @@
+=====================================peace======================================
+✅  Thank you. I really appreciate the positive feedback.
+        feedback feelings: Appreciative ✅
+✅  However, there are also some areas that I'd like you to work on. Recently, there
+   have been a few incidents where you have missed deadlines or not followed
+   through on certain tasks which has had a negative impact on the rest of the
+   team. For example, last week, the client follow-up call for Project X was not
+   done on time, which meant that the client was left waiting for a response for
+   two days.
+        areas to improve: Missed deadlines, lack of follow-through ✅
+        recent incidents: Missed deadlines, lack of follow-through ✅
+        impact on team: Negative impact ✅
+        example missed deadline task: Client follow-up call for Project X ✅
+        client response time: Two days ✅
+❌  I apologize, I didn't realize how that would impact the rest of the team.
+        missed deadlines: True ✅
+        not followed through: True ✅
+        impact on team: False ❌
+        client wait time: 2 days ✅
+        understand impact on team: False ✅
+✅  Uh, no I don't.
+        know divot: False ✅
+        divot definition: ? ✅
+✅  A divot is a piece of turf that is removed during a golf swing. It's important
+   to replace it so that the course stays in good condition for everyone.
+        divot definition: Piece of turf removed during golf swing ✅
+        divot importance: Keeps course in good condition ✅
+✅  Okay, got it.
+        divot understood: True ✅
+✅  We can add the missing hours to your next paycheck. I'll also ensure that our
+   system accurately reflects your hours worked. This will be resolved before
+   the next payroll, which is due on the 15th of July.
+        rectify error: Add missing hours to next paycheck, accurately reflect hours worked, resolve before next payroll due on the 15th of July. ✅
+        fix method: Add missing hours to next paycheck. ✅
+        ensure accuracy: Accurately reflect hours worked. ✅
+        resolution date: Before next payroll due on the 15th of July. ✅
+✅  Perfect. Thanks for your help, Sarah.
+        response to plan: Perfect ✅
+        thanked person: Sarah ✅
+        sarah name: ? ❌
+❌  We will also make sure that this issue is not repeated and that you are
+   appropriately compensated for any missed time. Is there anything else I can
+   assist you with, John?
+        issue repeated: No ❌
+        missed time compensation: Appropriate compensation ❌
+        additional assistance: ? ✅
+✅  I need a new tractor and a few other things. The make and model doesn't matter
+   as long as they're reliable.
+        equipment supplies needed: New tractor, a few other things ✅
+        tractor make model: Doesn't matter as long as it's reliable ✅
+✅  Sure thing. Can you tell me how many tractors you need and their horsepower?
+        num tractors: ? ✅
+        tractor horsepower: ? ✅
+✅  I need two tractors and they both need to be at least 100 horsepower.
+        tractor count: 2 ✅
+        tractor horsepower: 100 or more ✅
+        num tractors: 2 ✅
+        minimum horsepower: 100 or more ✅
+❌  It's a P205/55R16.
+        tire size: P205/55R16 ✅
+        tire size 205: True ❌
+        tire size 55: True ❌
+        tire size 16: True ❌
+✅  Got it. Do you have a preferred brand or type of tire in mind?
+        preferred brand: ? ✅
+        preferred type: ? ✅
+✅  Yes, I've been looking at the Michelin Primacy MXM4.
+        tire preference: Michelin Primacy MXM4 ✅
+        tire brand: Michelin ✅
+        tire type: Primacy MXM4 ✅
+❌  Will do. What's the player rotation and substitution plan for this game?
+        player rotation: ? ✅
+        substitution plan: ? ✅
+❌  We'll be running more of a fast-paced offense, so we'll need to rotate players
+   in and out more frequently. Make sure you know who's playing what position
+   and communicate effectively with the rest of the team.
+        player rotation plan: Fast-paced offense, frequent rotation, position knowledge, effective communication ✅
+        substitution plan: Fast-paced offense, frequent rotation, position knowledge, effective communication ✅
+        offense type: Fast-paced offense ✅
+        rotation frequency: More frequently ✅
+        position knowledge: Position knowledge ❌
+        team communication: Effective communication ✅
+✅  Got it. And what about mentoring and development strategies?
+        mentoring strategies: ? ✅
+        development strategies: ? ✅
+✅  Hey there, can we adjust the sound levels a bit?
+        speaker: Sound engineer ✅
+        request: Adjust sound levels ✅
+        adjust sound levels: ? ✅
+❌  Sure thing, what do you need?
+        adjust sound levels: True ✅
+        need adjustment: ? ✅
+✅  Right now, the guitar is a bit too loud compared to the vocals. Can we bring the
+   guitar down and bring the vocals up?
+        need: Adjust sound levels ✅
+        guitar loudness: Too loud ✅
+        guitar adjustment: ? ✅
+        vocals adjustment: ? ✅
+❌  Of course! May I have your name, seat number, and destination?
+        extra pillow: True ✅
+        name: ? ✅
+        seat number: ? ✅
+        destination: ? ✅
+✅  My name is John Smith, I'm in seat 13B, and my destination is New York.
+        name: John Smith ✅
+        seat number: 13B ✅
+        destination: New York ✅
+        first name: John ✅
+        last name: Smith ✅
+✅  Thank you, John. What type of pillow would you like? We have a few different
+   types and sizes available.
+        name: John Smith ✅
+        seat number: 13B ✅
+        destination: New York ✅
+        pillow type: ? ✅
+        available sizes: ? ✅
+❌  The performance should be around 45 minutes long.
+        performance length: 45 minutes ✅
+        min duration: 45 minutes ❌
+        max duration: 45 minutes ❌
+✅  Perfect. What kind of comedic style are you looking for?
+        comedic style: ? ✅
+❌  We’re looking for someone who can make our audience laugh with relatable, light-
+   hearted humor.
+        comedic style: Relatable, light-hearted ✅
+        make audience laugh: Yes ✅
+        humor type: Relatable, light-hearted ✅
+❌  Well, there were definitely some strengths and weaknesses. On the positive side,
+   the design and visual elements were very strong. The website was also easy to
+   navigate and had good functionality. However, we did notice some issues with
+   load times and some bugs that needed to be fixed.
+        project status: Mixed ❌
+        website strengths: Design and visual elements ✅
+        website navigation: Easy to navigate ✅
+        website functionality: Good functionality ✅
+        website issues: Load times, bugs ✅
+        load time issues: ? ❌
+        bug issues: ? ❌
+✅  Okay, I see. What about my performance on the project?
+        project performance: ? ✅
+✅  You did a great job overall, Sarah. Your attention to detail and time management
+   skills were really impressive. However, there were a few instances where
+   communication with the team could have been improved. For example, when we
+   had to make some last-minute changes to the code, it would have been helpful
+   to have everyone on the same page before making the changes.
+        project performance: Great ✅
+        attention to detail: Impressive ✅
+        time management: Impressive ✅
+        communication improvement: Yes ✅
+        example communication improvement: Last-minute changes to code ✅
+❌  Sounds good. And do you have any disabilities or need any special assistance?
+        disabilities: ? ✅
+        special assistance: ? ✅
+✅  No, I don't require any accommodations.
+        disabilities: No ✅
+        special assistance: No ✅
+        accommodations required: No ✅
+✅  Alright. And do you plan on accessing any restricted areas in the airport?
+        access restricted areas: ? ✅
+❌  I could swing by tomorrow morning around 10 if that works for you?
+        best time: Tomorrow morning around 10 ✅
+        visit today: No ✅
+        visit tomorrow: Yes ✅
+        visit time: Around 10 ✅
+        suitable time: ? ✅
+✅  That's perfect. The break room is located on the second floor, down the hall to
+   the right. I'll leave the door unlocked for you. And just a heads up, I think
+   it might be good to wear some gloves and safety glasses while working on the
+   fixture.
+        break room location: Second floor, down the hall to the right ✅
+        break room door locked: Unlocked ✅
+        work attire: Gloves, safety glasses ✅
+✅  Sounds good. And I'll bring some pliers and a voltage tester, just in case. How
+   long do you think the repair will take?
+        bring tools: "pliers", "voltage tester" ✅
+        bring pliers: True ✅
+        bring voltage tester: True ✅
+        repair duration: ? ✅
+✅  Yes please.
+        packaging request: True ✅
+        ceramic pot price: $15 ✅
+        soil recommendation: Succulent soil ✅
+        succulent soil cost: $10 ✅
+✅  That will be $55. We accept cash, credit, and debit. We also offer delivery for
+   an additional fee. Thank you! Here are some tips for maintaining your plant.
+   Remember to water it once a week and make sure it's getting adequate
+   sunlight. You can also add a bit of fertilizer every three months for extra
+   nutrients.
+        price: $55 ✅
+        payment methods: Cash, credit, debit ✅
+        delivery available: Yes ✅
+        maintenance tips: Water once a week, ensure adequate sunlight, add fertilizer every three months ✅
+        water frequency: Once a week ✅
+        sunlight requirement: Adequate sunlight ✅
+        fertilizer frequency: Every three months ✅
+        fertilizer purpose: Extra nutrients ✅
+✅  Thanks so much!
+        water frequency: Once a week ✅
+        sunlight requirement: Adequate sunlight ✅
+        fertilizer frequency: Every three months ✅
+❌  No problem at all, sir. It's my job to assist passengers with their needs.
+        familiar with station: False ✅
+        job: Assist passengers ✅
+✅  That's good to know. I also have a knee injury, so I was wondering if there's
+   assistance available for boarding the train.
+        knee injury: Yes ✅
+        boarding assistance: Yes ✅
+        boarding assistance available: ? ✅
+✅  Absolutely. We have staff members who can help you get on the train if needed.
+   Do you require any additional assistance during the ride?
+        boarding assistance available: Yes ✅
+        additional assistance required: ? ✅
+✅  I’m on board with that. What else are you thinking?
+        financial plan: Yes ✅
+        savings goal: $10, 000 ✅
+        additional thoughts: ? ✅
+✅  I’ve been considering going back to school to pursue a degree in nursing. It
+   would be a big investment, but I think it could pay off in the long run.
+        thinking: Going back to school, pursuing a degree in nursing ✅
+        plan: Going back to school, pursuing a degree in nursing ✅
+        cost: Big investment ✅
+        benefit: Pay off in the long run ✅
+✅  Yeah, that could be a great move. What would that mean for our family planning
+   though?
+        opinion on nursing degree: positive ✅
+        family planning implications of nursing degree: ? ✅
+✅  Hi, John. My name is Sarah. I'm interested in purchasing a new laptop.
+        assist question: purchasing a new laptop ✅
+        name question: Sarah ✅
+        interested question: purchasing a new laptop ✅
+✅  Great! We have several laptops available. Can you please provide me with your
+   contact information so we can process your order?
+        laptops available: several ✅
+        contact info: ? ✅
+✅  Sure. My contact information is Sarah Smith, 123 Main Street, Anytown, USA, and
+   my phone number is 555-555-5555.
+        contact info: Sarah Smith, 123 Main Street, Anytown, USA, 555-555-5555 ✅
+        name: Sarah Smith ✅
+        address: 123 Main Street, Anytown, USA ✅
+        phone number: 555-555-5555 ✅
+✅  Yes, of course. I conducted a double-blind, randomized control trial with a
+   sample size of 100 individuals with high blood pressure. Half of the sample
+   was given the new medication while the other half received a placebo. We
+   collected data on various outcomes including blood pressure, heart rate, and
+   cholesterol levels.
+        methodology overview: Double-blind, randomized control trial, 100 individuals, half new medication, half placebo, blood pressure, heart rate, cholesterol levels ✅
+        study type: Double-blind, randomized control trial ✅
+        sample size: 100 individuals ✅
+        treatment: Half new medication, half placebo ✅
+        outcomes: Blood pressure, heart rate, cholesterol levels ✅
+✅  How did you analyze the data? Could you provide us with some statistical
+   analysis?
+        data analysis: ? ✅
+        statistical analysis: ? ✅
+✅  Sure, I conducted t-tests and ANOVA to analyze the data. The results show that
+   there is a statistically significant difference in blood pressure reduction
+   between those who received the medication and those who received the placebo
+   (p<0.05). Additionally, individuals who received the medication showed a
+   decrease in cholesterol levels compared to those who received the placebo.
+        data analysis: t-tests, ANOVA ✅
+        statistical analysis: statistically significant difference in blood pressure reduction (p0.05), decrease in cholesterol levels (p0.05) ✅
+        blood pressure difference: statistically significant difference (p0.05) ✅
+        cholesterol change: decrease in cholesterol levels (p0.05) ✅
+❌  Yes, it's 123456.
+        insurance policy number: 123456 ✅
+        first digit: 1 ✅
+        second digit: 2 ✅
+        third digit: 3 ✅
+        fourth digit: 4 ✅
+        fifth digit: 5 ✅
+        sixth digit: 6 ✅
+✅  Thank you, Sarah. I'm going to review your policy now to check your coverage.
+   Are there any other incidents or claims related to this accident that we
+   should be aware of?
+        next action: Review policy ✅
+        review purpose: Check coverage ✅
+        other incidents: ? ✅
+        other claims: ? ✅
+✅  No, this is the first time I've filed a claim.
+        other incidents: No ✅
+        previous claims: No ✅
+        first time filing claim: Yes ✅
+❌  That sounds great. How about the electrical and plumbing plans? Can we discuss
+   the specifics on those?
+        electrical plans: ? ✅
+        plumbing plans: ? ✅
+        discuss specifics: ? ✅
+✅  Absolutely. We've included the placement of the electrical outlets and fixtures
+   in our floor plan. And for the plumbing, we've included double sinks in each
+   washroom, with automatic faucets and low-flow toilets.
+        electrical plans: Included in floor plan ✅
+        plumbing plans: Double sinks, automatic faucets, low-flow toilets ✅
+        electrical placement: Included in floor plan ✅
+        plumbing features: Double sinks, automatic faucets, low-flow toilets ✅
+✅  Perfect. Now let's examine the landscape design and plans. What kind of greenery
+   would you like to incorporate?
+        next topic: Landscape design and plans ✅
+        greenery type: ? ✅
+✅  That makes sense. What are your goals and objectives for the album?
+        album goals: ? ✅
+        album objectives: ? ✅
+✅  My goal is to have a polished, radio-friendly album that will get some airplay.
+        album goals: Polished, radio-friendly, airplay ✅
+        album objectives: Polished, radio-friendly, airplay ✅
+        album polished: Yes ✅
+        album radio friendly: Yes ✅
+        album airplay: Yes ✅
+✅  Got it. What's your vision for the sound and overall aesthetic of the album?
+        sound vision: ? ✅
+        album aesthetic: ? ✅
+=====================================helen======================================
+✅  Thank you. I really appreciate the positive feedback.
+        feedback feelings: Appreciative ✅
+✅  However, there are also some areas that I'd like you to work on. Recently, there
+   have been a few incidents where you have missed deadlines or not followed
+   through on certain tasks which has had a negative impact on the rest of the
+   team. For example, last week, the client follow-up call for Project X was not
+   done on time, which meant that the client was left waiting for a response for
+   two days.
+        areas to improve: Missed deadlines, lack of follow-through ✅
+        recent incidents: Missed deadlines, lack of follow-through ✅
+        impact on team: Negative impact ✅
+        example missed deadline task: Client follow-up call for Project X ✅
+        client response time: Two days ✅
+❌  I apologize, I didn't realize how that would impact the rest of the team.
+        missed deadlines: True ✅
+        not followed through: True ✅
+        impact on team: False ❌
+        client wait time: 2 days ✅
+        understand impact on team: False ✅
+✅  Uh, no I don't.
+        know divot: False ✅
+        divot definition: ? ✅
+✅  A divot is a piece of turf that is removed during a golf swing. It's important
+   to replace it so that the course stays in good condition for everyone.
+        divot definition: Piece of turf removed during golf swing ✅
+        divot importance: Keeps course in good condition ✅
+✅  Okay, got it.
+        divot understood: True ✅
+✅  We can add the missing hours to your next paycheck. I'll also ensure that our
+   system accurately reflects your hours worked. This will be resolved before
+   the next payroll, which is due on the 15th of July.
+        rectify error: Add missing hours to next paycheck, accurately reflect hours worked, resolve before next payroll due on the 15th of July. ✅
+        fix method: Add missing hours to next paycheck. ✅
+        ensure accuracy: Accurately reflect hours worked. ✅
+        resolution date: Before next payroll due on the 15th of July. ✅
+✅  Perfect. Thanks for your help, Sarah.
+        response to plan: Perfect ✅
+        thanked person: Sarah ✅
+        sarah name: ? ❌
+✅  We will also make sure that this issue is not repeated and that you are
+   appropriately compensated for any missed time. Is there anything else I can
+   assist you with, John?
+        issue repeated: No ✅
+        missed time compensation: Appropriate compensation ✅
+        additional assistance: ? ✅
+✅  I need a new tractor and a few other things. The make and model doesn't matter
+   as long as they're reliable.
+        equipment supplies needed: New tractor, a few other things ✅
+        tractor make model: Doesn't matter as long as it's reliable ✅
+✅  Sure thing. Can you tell me how many tractors you need and their horsepower?
+        num tractors: ? ✅
+        tractor horsepower: ? ✅
+✅  I need two tractors and they both need to be at least 100 horsepower.
+        tractor count: 2 ✅
+        tractor horsepower: 100 or more ✅
+        num tractors: 2 ✅
+        minimum horsepower: 100 or more ✅
+✅  It's a P205/55R16.
+        tire size: P205/55R16 ✅
+        tire size 205: True ❌
+        tire size 55: True ❌
+        tire size 16: True ❌
+✅  Got it. Do you have a preferred brand or type of tire in mind?
+        preferred brand: ? ✅
+        preferred type: ? ✅
+✅  Yes, I've been looking at the Michelin Primacy MXM4.
+        tire preference: Michelin Primacy MXM4 ✅
+        tire brand: Michelin ✅
+        tire type: Primacy MXM4 ✅
+✅  Will do. What's the player rotation and substitution plan for this game?
+        player rotation: ? ✅
+        substitution plan: ? ✅
+✅  We'll be running more of a fast-paced offense, so we'll need to rotate players
+   in and out more frequently. Make sure you know who's playing what position
+   and communicate effectively with the rest of the team.
+        player rotation plan: Fast-paced offense, frequent rotation, position knowledge, effective communication ✅
+        substitution plan: Fast-paced offense, frequent rotation, position knowledge, effective communication ✅
+        offense type: Fast-paced offense ✅
+        rotation frequency: More frequently ✅
+        position knowledge: Position knowledge ✅
+        team communication: Effective communication ✅
+✅  Got it. And what about mentoring and development strategies?
+        mentoring strategies: ? ✅
+        development strategies: ? ✅
+❌  Hey there, can we adjust the sound levels a bit?
+        speaker: Sound engineer ❌
+        request: Adjust sound levels ✅
+        adjust sound levels: ? ✅
+✅  Sure thing, what do you need?
+        adjust sound levels: True ✅
+        need adjustment: ? ✅
+❌  Right now, the guitar is a bit too loud compared to the vocals. Can we bring the
+   guitar down and bring the vocals up?
+        need: Adjust sound levels ✅
+        guitar loudness: Too loud ✅
+        guitar adjustment: ? ❌
+        vocals adjustment: ? ❌
+✅  Of course! May I have your name, seat number, and destination?
+        extra pillow: True ✅
+        name: ? ✅
+        seat number: ? ✅
+        destination: ? ✅
+✅  My name is John Smith, I'm in seat 13B, and my destination is New York.
+        name: John Smith ✅
+        seat number: 13B ✅
+        destination: New York ✅
+        first name: John ✅
+        last name: Smith ✅
+✅  Thank you, John. What type of pillow would you like? We have a few different
+   types and sizes available.
+        name: John Smith ✅
+        seat number: 13B ✅
+        destination: New York ✅
+        pillow type: ? ✅
+        available sizes: ? ✅
+✅  The performance should be around 45 minutes long.
+        performance length: 45 minutes ✅
+        min duration: 45 minutes ✅
+        max duration: 45 minutes ✅
+✅  Perfect. What kind of comedic style are you looking for?
+        comedic style: ? ✅
+✅  We’re looking for someone who can make our audience laugh with relatable, light-
+   hearted humor.
+        comedic style: Relatable, light-hearted ✅
+        make audience laugh: Yes ✅
+        humor type: Relatable, light-hearted ✅
+✅  Well, there were definitely some strengths and weaknesses. On the positive side,
+   the design and visual elements were very strong. The website was also easy to
+   navigate and had good functionality. However, we did notice some issues with
+   load times and some bugs that needed to be fixed.
+        project status: Mixed ✅
+        website strengths: Design and visual elements ✅
+        website navigation: Easy to navigate ✅
+        website functionality: Good functionality ✅
+        website issues: Load times, bugs ✅
+        load time issues: ? ✅
+        bug issues: ? ✅
+✅  Okay, I see. What about my performance on the project?
+        project performance: ? ✅
+❌  You did a great job overall, Sarah. Your attention to detail and time management
+   skills were really impressive. However, there were a few instances where
+   communication with the team could have been improved. For example, when we
+   had to make some last-minute changes to the code, it would have been helpful
+   to have everyone on the same page before making the changes.
+        project performance: Great ✅
+        attention to detail: Impressive ✅
+        time management: Impressive ✅
+        communication improvement: Yes ❌
+        example communication improvement: Last-minute changes to code ✅
+✅  George Washington played a significant role in the city's history, as did
+   Alexander Hamilton, who was born and raised here. Other notable figures
+   include Robert Fulton, who invented the steamboat, and Edith Wharton, a
+   Pulitzer Prize-winning author.
+        city history figures: George Washington, Alexander Hamilton, Robert Fulton, Edith Wharton ✅
+        george washington role: Significant role ✅
+        alexander hamilton role: Born and raised here ✅
+        robert fulton role: Invented steamboat ✅
+        edith wharton role: Pulitzer Prize-winning author ✅
+❌  That's really fascinating. What about cultural traditions and practices in the
+   city?
+        history fascinating: George Washington, Alexander Hamilton, Robert Fulton, Edith Wharton ✅
+        cultural traditions practices city: ? ❌
+✅  One of the most famous cultural traditions is the annual Macy's Thanksgiving Day
+   Parade, which has been held every year since 1924. We also have a large
+   population of immigrants, leading to a rich diversity of cultures and
+   traditions throughout the city.
+        cultural traditions practices: Macy's Thanksgiving Day Parade, large population of immigrants ❌
+        famous tradition: Macy's Thanksgiving Day Parade ✅
+        parade date: Every year since 1924 ✅
+        city population: Large population of immigrants ✅
+        immigrant impact: Rich diversity of cultures and traditions ✅
+✅  No, everything has been the same for the most part.
+        health changes since last meeting: No ✅
+        health same since last meeting: Yes ✅
+✅  Alright, I'll make sure to review your file then. Can you give me an idea of
+   your current physical abilities and limitations?
+        next action: review_file ✅
+        physical abilities: ? ✅
+        physical limitations: ? ✅
+✅  Well, I have some trouble with my left arm and fingers. I can't grip things as
+   well as I used to.
+        physical abilities: Trouble with left arm and fingers, poor grip ✅
+        physical limitations: Trouble with left arm and fingers, poor grip ✅
+        trouble area: Left arm and fingers ✅
+        grip ability: Poor grip ✅
+❌  Sure, what kind of information do you require?
+        airport info: True ❌
+        required info: ? ✅
+✅  I need recommendations on the best flight routes and schedules to and from this
+   airport, and some information about local weather conditions and recommended
+   times of the year to travel.
+        information required: Flight routes, schedules, weather conditions, recommended travel times ✅
+        flight routes schedules: ? ✅
+        weather conditions: ? ✅
+        recommended travel times: ? ✅
+✅  For flight routes and schedules, we suggest that you check out some major
+   airlines like Delta and United. They have flights arriving and departing
+   throughout the day. As for the weather, this area experiences a monsoon
+   season from July to September, and this is not an ideal time to travel.
+        flight routes schedules: Delta, United ✅
+        weather conditions: Monsoon season (July-September) ✅
+        travel times: Monsoon season (July-September) ✅
+        major airlines: Delta, United ✅
+        flights throughout day: Yes ✅
+        monsoon season duration: July-September ✅
+        monsoon season ideal time: No ✅
+✅  Okay. And what about the inventory management on the truck?
+        inventory management on truck: ? ✅
+✅  All set there. We're well-stocked for the day. But it'd be good to double-check
+   before we leave. Speaking of which, have you heard about the weather
+   forecast?
+        inventory management: All set ✅
+        well stocked: Yes ✅
+        double check before leave: Yes ✅
+        weather forecast: ? ✅
+✅  Actually, haven't checked in with that yet today. Will there be any issues?
+        weather forecast: No ✅
+        weather issues: ? ✅
+✅  That sounds interesting! What about putting? Any tips there?
+        reverse pivot drill opinion: interesting ✅
+        putting tips: ? ✅
+✅  Definitely! For better putting, I recommend practicing your speed control and
+   aim by using a yardstick or alignment sticks on the putting green. And for
+   the short game, it's important to practice chipping and pitching from
+   different lies and distances.
+        putting tips: Speed control, aim, yardstick/alignment sticks, chipping/pitching ✅
+        putting practice: Speed control, aim ✅
+        putting tools: Yardstick/alignment sticks ✅
+        short game practice: Chipping/pitching ✅
+✅  Speaking of equipment, what are some good recommendations?
+        equipment recommendations: ? ✅
+✅  Okay, thanks for letting me know. What about alternatives to the crown for the
+   cracked tooth?
+        root canal covered: Yes ✅
+        prior auth required: Yes ✅
+        alternative crown cracked tooth: ? ✅
+✅  There is an alternative procedure that may be covered called an onlay, but that
+   would depend on the specific terms of Jack's policy.
+        alternatives to crown cracked tooth: Onlay ✅
+        alternative procedure: Onlay ✅
+        onlay coverage: ? ✅
+        policy terms: ? ✅
+✅  Okay, I'll keep that in mind. And what about the frequency of the fillings and
+   crown?
+        fillings frequency: ? ✅
+        crown frequency: ? ✅
+✅  Okay, we need to make sure we’re incorporating foods that will keep your blood
+   sugar levels stable and avoid foods that could spike them. How active are
+   you?
+        blood sugar foods: Stable foods ✅
+        blood sugar spike foods: Avoid spiked foods ✅
+        physical activity level: ? ✅
+✅  I go for a walk every day but other than that I don’t do much exercise.
+        active level: Low ✅
+        daily activity: Walk ✅
+        other exercise: No ✅
+❌  Alright, that’s something we can work on. Let’s talk about how many calories
+   you’re currently taking in on a daily basis.
+        exercise improvement: Yes ❌
+        daily calorie intake: ? ✅
+✅  Good morning, John. Thanks for meeting with me today. I'm hoping you can help me
+   manage my finances better.
+        meeting initiator: speaker ✅
+        meeting time: morning ✅
+        meeting attendees: John ✅
+        meeting purpose: manage finances ✅
+        financial management help: ? ✅
+✅  Of course, happy to help. Let's start by taking a look at your revenue and sales
+   figures for the past quarter.
+        help manage finances: True ✅
+        first step: Review revenue and sales figures ✅
+        past quarter revenue: ? ✅
+        past quarter sales: ? ✅
+✅  Sure. We had a total revenue of $100,000 with $70,000 coming from product sales
+   and $30,000 from services.
+        revenue sales figures: $100, 000, $70, 000, $30, 000 ✅
+        total revenue: $100, 000 ✅
+        product sales revenue: $70, 000 ✅
+        services revenue: $30, 000 ✅
+✅  The project's objective is to build a three-story office building with a total
+   floor space of 12,000 square feet. We're hoping to finish the project in 12
+   months. So, we have plenty of time to allocate your tasks accordingly
+   throughout the project timeline.
+        project timeline: 12 months ✅
+        project goals: Build a three-story office building with 12, 000 square feet of floor space. ✅
+        project objective: Build a three-story office building. ✅
+        total floor space: 12, 000 square feet. ✅
+        task allocation time: Plenty of time. ✅
+✅  Okay, understood. What specific task do I need to work on today, and what are my
+   deadlines?
+        task today: ? ✅
+        deadlines today: ? ✅
+✅  For today, you'll work on installing electrical wiring on the second floor, and
+   you'll have to finish the job by the end of the day.
+        task today: Installing electrical wiring ✅
+        deadlines: End of the day ✅
+        floor: Second floor ✅
+        time: End of the day ✅
+✅  The app shows that Janelle Monae will be debuting her new single “Make Me Feel.”
+        setlists: Janelle Monae's "Make Me Feel" ✅
+        new songs: Janelle Monae's "Make Me Feel" ✅
+        debuting artist: Janelle Monae ✅
+        new song title: Make Me Feel ✅
+❌  Speaking of artists, do we know their performance style or genre? I'm into folk,
+   but not really into EDM.
+        performance style: Folk ❌
+        genre: EDM ✅
+        janelle monae performance style: ? ✅
+        janelle monae genre: ? ✅
+✅  Check the app again or grab a festival brochure. It usually has info on each
+   artist.
+        artist info: App, festival brochure ✅
+        app info: Yes ✅
+        festival brochure info: Yes ✅
+====================================michelle====================================
+✅  Thank you. I really appreciate the positive feedback.
+        feedback feelings: Appreciative ✅
+✅  However, there are also some areas that I'd like you to work on. Recently, there
+   have been a few incidents where you have missed deadlines or not followed
+   through on certain tasks which has had a negative impact on the rest of the
+   team. For example, last week, the client follow-up call for Project X was not
+   done on time, which meant that the client was left waiting for a response for
+   two days.
+        areas to improve: Missed deadlines, lack of follow-through ❌
+        recent incidents: Missed deadlines, lack of follow-through ✅
+        impact on team: Negative impact ✅
+        example missed deadline task: Client follow-up call for Project X ✅
+        client response time: Two days ❌
+✅  I apologize, I didn't realize how that would impact the rest of the team.
+        missed deadlines: True ✅
+        not followed through: True ✅
+        impact on team: False ❌
+        client wait time: 2 days ✅
+        understand impact on team: False ✅
+❌  Uh, no I don't.
+        know divot: False ✅
+        divot definition: ? ❌
+✅  A divot is a piece of turf that is removed during a golf swing. It's important
+   to replace it so that the course stays in good condition for everyone.
+        divot definition: Piece of turf removed during golf swing ✅
+        divot importance: Keeps course in good condition ✅
+✅  Okay, got it.
+        divot understood: True ✅
+✅  We can add the missing hours to your next paycheck. I'll also ensure that our
+   system accurately reflects your hours worked. This will be resolved before
+   the next payroll, which is due on the 15th of July.
+        rectify error: Add missing hours to next paycheck, accurately reflect hours worked, resolve before next payroll due on the 15th of July. ✅
+        fix method: Add missing hours to next paycheck. ❌
+        ensure accuracy: Accurately reflect hours worked. ❌
+        resolution date: Before next payroll due on the 15th of July. ✅
+✅  Perfect. Thanks for your help, Sarah.
+        response to plan: Perfect ❌
+        thanked person: Sarah ✅
+        sarah name: ? ❌
+✅  We will also make sure that this issue is not repeated and that you are
+   appropriately compensated for any missed time. Is there anything else I can
+   assist you with, John?
+        issue repeated: No ❌
+        missed time compensation: Appropriate compensation ✅
+        additional assistance: ? ✅
+✅  I need a new tractor and a few other things. The make and model doesn't matter
+   as long as they're reliable.
+        equipment supplies needed: New tractor, a few other things ✅
+        tractor make model: Doesn't matter as long as it's reliable ✅
+✅  Sure thing. Can you tell me how many tractors you need and their horsepower?
+        num tractors: ? ✅
+        tractor horsepower: ? ✅
+✅  I need two tractors and they both need to be at least 100 horsepower.
+        tractor count: 2 ❌
+        tractor horsepower: 100 or more ❌
+        num tractors: 2 ✅
+        minimum horsepower: 100 or more ✅
+✅  It's a P205/55R16.
+        tire size: P205/55R16 ✅
+        tire size 205: True ❌
+        tire size 55: True ❌
+        tire size 16: True ❌
+✅  Got it. Do you have a preferred brand or type of tire in mind?
+        preferred brand: ? ✅
+        preferred type: ? ✅
+✅  Yes, I've been looking at the Michelin Primacy MXM4.
+        tire preference: Michelin Primacy MXM4 ✅
+        tire brand: Michelin ✅
+        tire type: Primacy MXM4 ✅
+✅  Will do. What's the player rotation and substitution plan for this game?
+        player rotation: ? ✅
+        substitution plan: ? ✅
+✅  We'll be running more of a fast-paced offense, so we'll need to rotate players
+   in and out more frequently. Make sure you know who's playing what position
+   and communicate effectively with the rest of the team.
+        player rotation plan: Fast-paced offense, frequent rotation, position knowledge, effective communication ❌
+        substitution plan: Fast-paced offense, frequent rotation, position knowledge, effective communication ❌
+        offense type: Fast-paced offense ✅
+        rotation frequency: More frequently ✅
+        position knowledge: Position knowledge ❌
+        team communication: Effective communication ✅
+✅  Got it. And what about mentoring and development strategies?
+        mentoring strategies: ? ✅
+        development strategies: ? ✅
+✅  Hey there, can we adjust the sound levels a bit?
+        speaker: Sound engineer ❌
+        request: Adjust sound levels ✅
+        adjust sound levels: ? ✅
+✅  Sure thing, what do you need?
+        adjust sound levels: True ✅
+        need adjustment: ? ✅
+✅  Right now, the guitar is a bit too loud compared to the vocals. Can we bring the
+   guitar down and bring the vocals up?
+        need: Adjust sound levels ✅
+        guitar loudness: Too loud ✅
+        guitar adjustment: ? ✅
+        vocals adjustment: ? ✅
+✅  Of course! May I have your name, seat number, and destination?
+        extra pillow: True ✅
+        name: ? ✅
+        seat number: ? ✅
+        destination: ? ✅
+✅  My name is John Smith, I'm in seat 13B, and my destination is New York.
+        name: John Smith ✅
+        seat number: 13B ✅
+        destination: New York ✅
+        first name: John ✅
+        last name: Smith ✅
+✅  Thank you, John. What type of pillow would you like? We have a few different
+   types and sizes available.
+        name: John Smith ✅
+        seat number: 13B ✅
+        destination: New York ✅
+        pillow type: ? ✅
+        available sizes: ? ❌
+✅  The performance should be around 45 minutes long.
+        performance length: 45 minutes ✅
+        min duration: 45 minutes ❌
+        max duration: 45 minutes ❌
+✅  Perfect. What kind of comedic style are you looking for?
+        comedic style: ? ✅
+✅  We’re looking for someone who can make our audience laugh with relatable, light-
+   hearted humor.
+        comedic style: Relatable, light-hearted ❌
+        make audience laugh: Yes ✅
+        humor type: Relatable, light-hearted ✅
+✅  Well, there were definitely some strengths and weaknesses. On the positive side,
+   the design and visual elements were very strong. The website was also easy to
+   navigate and had good functionality. However, we did notice some issues with
+   load times and some bugs that needed to be fixed.
+        project status: Mixed ✅
+        website strengths: Design and visual elements ✅
+        website navigation: Easy to navigate ✅
+        website functionality: Good functionality ✅
+        website issues: Load times, bugs ✅
+        load time issues: ? ❌
+        bug issues: ? ❌
+✅  Okay, I see. What about my performance on the project?
+        project performance: ? ✅
+❌  You did a great job overall, Sarah. Your attention to detail and time management
+   skills were really impressive. However, there were a few instances where
+   communication with the team could have been improved. For example, when we
+   had to make some last-minute changes to the code, it would have been helpful
+   to have everyone on the same page before making the changes.
+        project performance: Great ✅
+        attention to detail: Impressive ✅
+        time management: Impressive ✅
+        communication improvement: Yes ✅
+        example communication improvement: Last-minute changes to code ✅
+✅  All right. Can you tell me a little bit about the current engagement and
+   interest on your social media accounts? Which posts are getting the most
+   attention?
+        social media engagement: ? ✅
+        social media interest: ? ✅
+        most attention posts: ? ✅
+✅  Right now, our Instagram account is doing the best. We have the most followers
+   there, and our posts tend to get more likes and comments than the ones on
+   Facebook or Twitter.
+        social media engagement: Instagram ❌
+        social media interest: Instagram ❌
+        most attention posts: Instagram ✅
+        instagram followers: Most ✅
+        instagram likes comments: More ✅
+        facebook likes comments: Less ✅
+        twitter likes comments: Less ✅
+✅  Got it. And what are your goals and objectives for this social media marketing
+   campaign?
+        social media goals: ? ✅
+        social media objectives: ? ✅
+✅  Okay, and what legal terms and jargon were used in the deposition?
+        legal terms used: ? ✅
+        jargon used: ? ✅
+✅  There were several instances of the phrases "breach of contract," "reasonable
+   person standard," and "compliance issues" used throughout.
+        legal terms jargon used: "breach of contract", "reasonable person standard", "compliance issues" ✅
+        phrase 1: breach of contract ❌
+        phrase 2: reasonable person standard ❌
+        phrase 3: compliance issues ❌
+✅  Thank you. And what testimony was provided by the witnesses or parties involved?
+        witness testimony: ? ✅
+        party testimony: ? ✅
+✅  Yes, there are a few things that we need to address. First, we'll need to ensure
+   that your work responsibilities can still be fulfilled with the new schedule.
+   Additionally, we'll need to consider the impact of the schedule change on
+   your pay and benefits, as well as any potential impact on other team members
+   or on our operations. There is also required documentation for this type of
+   request.
+        schedule change policies procedures: Work responsibilities, pay and benefits, impact on team members or operations, required documentation ❌
+        first consideration: Work responsibilities ✅
+        second consideration: Pay and benefits ✅
+        third consideration: Impact on team members or operations ✅
+        additional requirements: Required documentation ✅
+❌  Okay, that makes sense. I'm happy to provide any necessary documentation and
+   understand that there may be some adjustments that need to be made. Would
+   there be any options for alternative scheduling arrangements if it turns out
+   that this particular change isn't feasible?
+        work responsibilities: Yes ❌
+        pay benefits: Yes ❌
+        team members: Yes ❌
+        operations: Yes ❌
+        required documentation: Yes ❌
+        alternative scheduling options: ? ✅
+✅  Yes, we can definitely explore some alternative options if needed. We always
+   want to try to accommodate our employees' needs as best we can while
+   maintaining our operations.
+        alternative scheduling options: Yes ✅
+        accommodate employee needs: Yes ✅
+        maintain operations: Yes ✅
+        explore alternative options: Yes ✅
+✅  We've seen steady sales and revenue growth rates over the past few years, with
+   an average annual growth rate of 8% over the past three years.
+        sales growth rate past few years: Steady ✅
+        revenue growth rate past few years: Steady ✅
+        average annual growth rate past three years: 8% ✅
+✅  Impressive. What measures has the company taken to manage its expenses?
+        sales revenue growth rate: Steady ❌
+        avg annual growth rate: 8% ❌
+        expense management measures: ? ✅
+✅  We've been implementing various cost-saving measures, including streamlining our
+   operations and renegotiating contracts with suppliers. As a result, our
+   operating expenses have decreased by 10% compared to last year.
+        expense management measures: Streamlining operations, renegotiating contracts ✅
+        cost saving measures: Streamlining operations, renegotiating contracts ✅
+        operating expenses change: 10% decrease ✅
+✅  Can you give some tips for keeping pests and disease under control?
+        pest control tips: ? ✅
+        disease control tips: ? ✅
+✅  Absolutely. Pest and disease control methods include practices like crop
+   rotation, removing diseased plants, and using natural pesticides like neem
+   oil. Also, keeping the garden clean and free of debris can go a long way in
+   preventing certain diseases.
+        pest disease control tips: Crop rotation, removing diseased plants, using natural pesticides like neem oil, keeping the garden clean and free of debris ✅
+        pest disease control methods: Crop rotation, removing diseased plants, using natural pesticides like neem oil ✅
+        disease prevention methods: Crop rotation, removing diseased plants, using natural pesticides like neem oil, keeping the garden clean and free of debris ✅
+✅  Do you have any advice for container gardening?
+        container gardening advice: ? ✅
+✅  It brings me great joy to know that I could contribute to the event's success.
+   Can you also tell me about how my contributions were used?
+        contribution feelings: Joyful ✅
+        contribution usage: ? ✅
+✅  We used the funds to hire a stage company to aid in the set up of the various
+   gazebo tents for the event. We also made sure to include your name in all the
+   advertisements that we had for the event to make sure that everyone was aware
+   of your company's generous support.
+        contributions used: Hired stage company, Included in advertisements ❌
+        funds usage: Hired stage company ✅
+        stage company purpose: Set up gazebo tents ✅
+        name inclusion: Included in advertisements ✅
+        advertisement purpose: Make aware of generous support ❌
+✅  It's great to hear that my contribution was utilized well. I'm glad I could be a
+   part of the event. Is there anything else that I can do to help?
+        contribution utilized well: Yes ✅
+        glad to be part of event: Yes ✅
+        additional help needed: ? ✅
+✅  Of course, I'd love to help you land a job that suits your skills and
+   preferences. Can you tell me a bit about yourself?
+        help find job: True ✅
+        skills preferences: ? ❌
+        self description: ? ✅
+✅  Sure, my name is Maria and I'm originally from Mexico. I've been in the United
+   States for the past five years and I'm currently a permanent resident. I
+   speak Spanish fluently and I've been working as a cashier at a local grocery
+   store for the past two years.
+        self description: Maria, Mexico, 5 years, permanent resident, Spanish, cashier, local grocery store ✅
+        name: Maria ✅
+        origin: Mexico ✅
+        duration: 2 years ❌
+        status: permanent resident ✅
+        language: Spanish ✅
+        occupation: cashier ✅
+        location: local grocery store ❌
+✅  Great, thank you for sharing that with me. What is your educational background?
+        name: Maria ✅
+        origin: Mexico ✅
+        duration: 2 years ✅
+        status: Permanent resident ✅
+        language: Spanish ✅
+        occupation: Cashier at local grocery store ✅
+        education background: ? ✅
+❌  The bike tour is $75 per person and we do require full payment at the time of
+   booking. The hiking tour is $50 per person and we offer a 24-hour
+   cancellation policy. And for the art district walking tour, it's pay-what-
+   you-wish and you can just show up at the designated meeting spot.
+        pricing policy: $75 per person, $50 per person, 24-hour cancellation policy, pay-what-you-wish ❌
+        cancellation policy: Full payment at time of booking, 24-hour cancellation policy, pay-what-you-wish ❌
+        bike tour cost: $75 per person ✅
+        bike tour payment method: Full payment at time of booking ✅
+        hiking tour cost: $50 per person ✅
+        hiking cancellation policy: 24-hour cancellation policy ✅
+        art district walking tour cost: Pay-what-you-wish ✅
+        art district walking tour payment method: Show up at designated meeting spot ❌
+✅  That all sounds good. Is there anything else I should know or do I need to make
+   any special accommodations?
+        bike tour cost: $75 ❌
+        bike tour payment required: Full payment ❌
+        hiking tour cost: $50 ❌
+        hiking tour cancellation policy: 24-hour ❌
+        art district walking tour cost: Pay-what-you-wish ❌
+        art district walking tour payment location: Designated meeting spot ❌
+        additional info: ? ✅
+        special accommodations needed: ? ✅
+✅  No, everything should be pretty straightforward. But if you do have any special
+   requirements or needs, please let me know and we can do our best to
+   accommodate you.
+        additional info: No ✅
+        special accommodations: No ✅
+        special requirements needs: ? ✅
+✅  Of course. Let's start off by getting some personal identification information.
+   Can you please provide me with your full name, current address, and phone
+   number?
+        next step: Get personal identification information ✅
+        full name: ? ✅
+        current address: ? ✅
+        phone number: ? ✅
+✅  Sure. My name is Sarah Johnson, and my address is 123 Main Street, and my phone
+   number is 555-555-1212.
+        full name: Sarah Johnson ✅
+        current address: 123 Main Street ✅
+        phone number: 555-555-1212 ✅
+        first name: Sarah ✅
+        last name: Johnson ✅
+        street address: 123 Main Street ✅
+        area code: 555 ✅
+        telephone number: 555-555-1212 ✅
+✅  Great. Now, can you tell me a bit more about the legal matter in question?
+        name: Sarah Johnson ✅
+        address: 123 Main Street ✅
+        phone number: 555-555-1212 ✅
+        legal matter: ? ✅
+✅  Absolutely! There was this one time when I was starting a new venture, and I
+   faced a lot of rejection. But I didn't let that stop me, and I kept pushing
+   forward. Eventually, I landed a huge client that launched my business to
+   success. That experience taught me the importance of taking risks and
+   embracing change.
+        success stories: Starting a new venture, facing rejection, pushing forward, landing a huge client, learning the importance of taking risks and embracing change. ✅
+        situation: Starting a new venture. ✅
+        reaction: Pushing forward. ❌
+        outcome: Landed a huge client. ✅
+        lessons: Importance of taking risks and embracing change. ✅
+✅  Speaking of taking risks, do you have any advice on building a support system
+   and networking? It can be scary to put yourself out there!
+        support system advice: ? ✅
+        networking advice: ? ✅
+        fear of networking: ? ❌
+✅  Yes, building a support system and networking is crucial. I suggest finding
+   like-minded individuals with similar values. When I was starting out, I
+   joined a community of entrepreneurs who were supportive and encouraging. It
+   really helped me to stay motivated and accountable.
+        support system advice: Finding like-minded individuals with similar values ✅
+        networking advice: Finding like-minded individuals with similar values ✅
+        start out community: Joining a community of entrepreneurs ❌
+        community benefits: Staying motivated and accountable ✅

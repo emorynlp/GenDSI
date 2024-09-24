@@ -1,0 +1,17 @@
+
+# Requirements for dialogue slot induction (dsi/induction/experiment.py)
+
+# install cuml first while creating conde env like this:
+# conda create --solver=libmamba -n dsi -c rapidsai -c conda-forge -c nvidia cudf=24.02 cuml=24.02 python=3.10 cuda-version=11.8
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+--find-links https://download.pytorch.org/whl/cu118
+torch==2.1.2+cu118
+
+sentence_transformers
+scikit-learn
+numpy
+matplotlib
+umap-learn
+fuzzywuzzy[speedup]
